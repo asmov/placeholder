@@ -1,7 +1,7 @@
 [package]
-name = "asmov-common-testing"
+name = "asmov-common-testing-macro"
 version = "0.0.0"
-description = "Moved to srctrait-common-testing"
+description = "Moved to srctrait-common-testing-macro"
 authors = ["SourceTrait <development@sourcetrait.com>"]
 repository = "https://github.com/sourcetrait/srctrait-common"
 homepage = "https://sourcetrait.com"
