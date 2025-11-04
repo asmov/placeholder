@@ -1,1 +1,1 @@
-Moved to [srctrait-common-testing](https://crates.io/crates/srctrait-common-testing)
+Moved to [sourcetrait_testing](https://crates.io/crates/sourcetrait_testing)
