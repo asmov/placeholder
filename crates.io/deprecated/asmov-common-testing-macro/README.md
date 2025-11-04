@@ -1,1 +1,1 @@
-Moved to [srctrait-common-testing-macro](https://crates.io/crates/srctrait-common-testing-macro)
+Moved to [sourcetrait_testing_macro](https://crates.io/crates/sourcetrait_testing_macro)
